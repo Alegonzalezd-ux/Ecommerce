@@ -1,4 +1,4 @@
-#  Ecommerce Name - Fullstack Project
+#  Ecommerce - Fullstack Project
 
 [![Proyecto Público](https://img.shields.io/badge/proyecto-publico-blue?logo=github)](.)
 [![Estado](https://img.shields.io/badge/En-desarrollo-red)](.)
